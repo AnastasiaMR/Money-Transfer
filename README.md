@@ -10,8 +10,10 @@
 ## Результаты
 
 1. Тест неуспешный
-2. [Баг-репорт](https://github.com/AnastasiaMR/Money-Transfer/issues/1)
+2. [Невалидная итоговая сумма при переводе средств на счет](https://github.com/AnastasiaMR/Money-Transfer/issues/1)
 
+## Окружение: 
+Windows 10 Pro 64-разрядная операционная система, Java 11.0.10
 
 ## Общие рекомендации
 
